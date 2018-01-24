@@ -64,4 +64,3 @@ Thank you for giving Book Reader a try. You can connect with me at [@e_mad_ehsan
 
 Happy Coding :)
 
-PS: You can read this documentation in a beautiful way here: https://github.com/rowburst/book-reader-ionic-docs
