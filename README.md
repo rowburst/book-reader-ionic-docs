@@ -1,8 +1,7 @@
 # Ionic 3 Book Reader App
 
-![Ionic 3 Book Reader App - Cover](./media/book-reader-flyer-complete-2.jpg)
+[Book Reader App](./media/book-reader-flyer-complete-2.jpg)
 
-# Book Reader Ionic 3 App
 The app Book Reader is ready for release. You just need to customize it for your needs, add your logos, edit package name and publish it. The app incorporates a beautiful design soothing to eyes of the reader.
 You can browse list of available books, there authors, description and category, Read PDF books online, Save and download books that you like offline. It uses ionic-storage and Phone's disk for storing downloaded books. It uses internet connection to authenticate and to fetch list of books.
 
@@ -40,7 +39,7 @@ Your Digital Library
 Yes! even if you don't have copyrights on any books, you can find many books that are in public domain. Which means anyone can earn revenue on them. Like the books we've added in the code.
 
 ## Documentation
-[Read the docs](./DOCS.md)
+[Read the docs" src="./DOCS.md)
 
 ## Technologies
 * Ionic 3
@@ -57,30 +56,31 @@ Yes! even if you don't have copyrights on any books, you can find many books tha
 
 
 ## Screenshots
-![Ionic 3 Book Reader App - login](./media/01_login.jpg =281x)
-![Ionic 3 Book Reader App - signup](./media/02_signup.jpg =281x)
+
+<img style="width: 200px;" alt="login" src="./media/01_login.jpg" />
+<img style="width: 200px;" alt="signup" src="./media/02_signup.jpg" />
 
 
-![Ionic 3 Book Reader App - browse books](./media/03_browse_books.jpg =281x)
-![Ionic 3 Book Reader App - search for books](./media/04_search_for_book.jpg =281x)
+<img style="width: 200px;" alt="browse books" src="./media/03_browse_books.jpg" />
+<img style="width: 200px;" alt="search for books" src="./media/04_search_for_book.jpg" />
 
 
-![Ionic 3 Book Reader App - search results](./media/05_search_results.jpg =281x)
-![Ionic 3 Book Reader App - book details](./media/06_book_details.jpg =281x)
+<img style="width: 200px;" alt="search results" src="./media/05_search_results.jpg" />
+<img style="width: 200px;" alt="book details" src="./media/06_book_details.jpg" />
 
 
-![Ionic 3 Book Reader App - read online](./media/07_read_online.jpg =281x)
-![Ionic 3 Book Reader App - saved books](./media/08_saved_books.jpg =281x)
+<img style="width: 200px;" alt="read online" src="./media/07_read_online.jpg" />
+<img style="width: 200px;" alt="saved books" src="./media/08_saved_books.jpg" />
 
 
-![Ionic 3 Book Reader App - side menu](./media/09_side_menu.jpg =281x)
-![Ionic 3 Book Reader App - about page](./media/10_about_page.jpg =281x)
+<img style="width: 200px;" alt="side menu" src="./media/09_side_menu.jpg" />
+<img style="width: 200px;" alt="about page" src="./media/10_about_page.jpg" />
 
 
-![Ionic 3 Book Reader App - help page](./media/11_help_page.jpg =281x)
-![Ionic 3 Book Reader App - saved book details](./media/12_saved_book_details.jpg =281x)
+<img style="width: 200px;" alt="help page" src="./media/11_help_page.jpg" />
+<img style="width: 200px;" alt="saved book details" src="./media/12_saved_book_details.jpg" />
 
 
-![Ionic 3 Book Reader App - delete book](./media/13_delete_book.jpg =281x)
-![Ionic 3 Book Reader App - empty saved books](./media/14_empty_saved_books.jpg =281x)
+<img style="width: 200px;" alt="delete book" src="./media/13_delete_book.jpg" />
+<img style="width: 200px;" alt="empty saved books" src="./media/14_empty_saved_books.jpg" />
 
