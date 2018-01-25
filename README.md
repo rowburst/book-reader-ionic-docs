@@ -57,30 +57,30 @@ Yes! even if you don't have copyrights on any books, you can find many books tha
 
 
 ## Screenshots
-![Ionic 3 Book Reader App - login](./media/01_login.jpg =281.25x)
-![Ionic 3 Book Reader App - signup](./media/02_signup.jpg =281.25x)
+![Ionic 3 Book Reader App - login](./media/01_login.jpg =281x)
+![Ionic 3 Book Reader App - signup](./media/02_signup.jpg =281x)
 
 
-![Ionic 3 Book Reader App - browse books](./media/03_browse_books.jpg =281.25x)
-![Ionic 3 Book Reader App - search for books](./media/04_search_for_book.jpg =281.25x)
+![Ionic 3 Book Reader App - browse books](./media/03_browse_books.jpg =281x)
+![Ionic 3 Book Reader App - search for books](./media/04_search_for_book.jpg =281x)
 
 
-![Ionic 3 Book Reader App - search results](./media/05_search_results.jpg =281.25x)
-![Ionic 3 Book Reader App - book details](./media/06_book_details.jpg =281.25x)
+![Ionic 3 Book Reader App - search results](./media/05_search_results.jpg =281x)
+![Ionic 3 Book Reader App - book details](./media/06_book_details.jpg =281x)
 
 
-![Ionic 3 Book Reader App - read online](./media/07_read_online.jpg =281.25x)
-![Ionic 3 Book Reader App - saved books](./media/08_saved_books.jpg =281.25x)
+![Ionic 3 Book Reader App - read online](./media/07_read_online.jpg =281x)
+![Ionic 3 Book Reader App - saved books](./media/08_saved_books.jpg =281x)
 
 
-![Ionic 3 Book Reader App - side menu](./media/09_side_menu.jpg =281.25x)
-![Ionic 3 Book Reader App - about page](./media/10_about_page.jpg =281.25x)
+![Ionic 3 Book Reader App - side menu](./media/09_side_menu.jpg =281x)
+![Ionic 3 Book Reader App - about page](./media/10_about_page.jpg =281x)
 
 
-![Ionic 3 Book Reader App - help page](./media/11_help_page.jpg =281.25x)
-![Ionic 3 Book Reader App - saved book details](./media/12_saved_book_details.jpg =281.25x)
+![Ionic 3 Book Reader App - help page](./media/11_help_page.jpg =281x)
+![Ionic 3 Book Reader App - saved book details](./media/12_saved_book_details.jpg =281x)
 
 
-![Ionic 3 Book Reader App - delete book](./media/13_delete_book.jpg =281.25x)
-![Ionic 3 Book Reader App - empty saved books](./media/14_empty_saved_books.jpg =281.25x)
+![Ionic 3 Book Reader App - delete book](./media/13_delete_book.jpg =281x)
+![Ionic 3 Book Reader App - empty saved books](./media/14_empty_saved_books.jpg =281x)
 
