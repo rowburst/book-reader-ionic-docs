@@ -57,30 +57,30 @@ Yes! even if you don't have copyrights on any books, you can find many books tha
 
 ## Screenshots
 
-<img style="width: 200px;" alt="login" src="./media/01_login.jpg" />
-<img style="width: 200px;" alt="signup" src="./media/02_signup.jpg" />
+<img style="height: 500px;" alt="login" src="./media/01_login.jpg" />
+<img style="height: 500px;" alt="signup" src="./media/02_signup.jpg" />
 
 
-<img style="width: 200px;" alt="browse books" src="./media/03_browse_books.jpg" />
-<img style="width: 200px;" alt="search for books" src="./media/04_search_for_book.jpg" />
+<img style="height: 500px;" alt="browse books" src="./media/03_browse_books.jpg" />
+<img style="height: 500px;" alt="search for books" src="./media/04_search_for_book.jpg" />
 
 
-<img style="width: 200px;" alt="search results" src="./media/05_search_results.jpg" />
-<img style="width: 200px;" alt="book details" src="./media/06_book_details.jpg" />
+<img style="height: 500px;" alt="search results" src="./media/05_search_results.jpg" />
+<img style="height: 500px;" alt="book details" src="./media/06_book_details.jpg" />
 
 
-<img style="width: 200px;" alt="read online" src="./media/07_read_online.jpg" />
-<img style="width: 200px;" alt="saved books" src="./media/08_saved_books.jpg" />
+<img style="height: 500px;" alt="read online" src="./media/07_read_online.jpg" />
+<img style="height: 500px;" alt="saved books" src="./media/08_saved_books.jpg" />
 
 
-<img style="width: 200px;" alt="side menu" src="./media/09_side_menu.jpg" />
-<img style="width: 200px;" alt="about page" src="./media/10_about_page.jpg" />
+<img style="height: 500px;" alt="side menu" src="./media/09_side_menu.jpg" />
+<img style="height: 500px;" alt="about page" src="./media/10_about_page.jpg" />
 
 
-<img style="width: 200px;" alt="help page" src="./media/11_help_page.jpg" />
-<img style="width: 200px;" alt="saved book details" src="./media/12_saved_book_details.jpg" />
+<img style="height: 500px;" alt="help page" src="./media/11_help_page.jpg" />
+<img style="height: 500px;" alt="saved book details" src="./media/12_saved_book_details.jpg" />
 
 
-<img style="width: 200px;" alt="delete book" src="./media/13_delete_book.jpg" />
-<img style="width: 200px;" alt="empty saved books" src="./media/14_empty_saved_books.jpg" />
+<img style="height: 500px;" alt="delete book" src="./media/13_delete_book.jpg" />
+<img style="height: 500px;" alt="empty saved books" src="./media/14_empty_saved_books.jpg" />
 
